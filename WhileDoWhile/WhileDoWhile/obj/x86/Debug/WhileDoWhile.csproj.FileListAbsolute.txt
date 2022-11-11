@@ -1,0 +1,6 @@
+/home/fatima/Projects/WhileDoWhile/WhileDoWhile/bin/Debug/WhileDoWhile.exe
+/home/fatima/Projects/WhileDoWhile/WhileDoWhile/bin/Debug/WhileDoWhile.pdb
+/home/fatima/Projects/WhileDoWhile/WhileDoWhile/obj/x86/Debug/WhileDoWhile.csproj.AssemblyReference.cache
+/home/fatima/Projects/WhileDoWhile/WhileDoWhile/obj/x86/Debug/WhileDoWhile.csproj.CoreCompileInputs.cache
+/home/fatima/Projects/WhileDoWhile/WhileDoWhile/obj/x86/Debug/WhileDoWhile.exe
+/home/fatima/Projects/WhileDoWhile/WhileDoWhile/obj/x86/Debug/WhileDoWhile.pdb

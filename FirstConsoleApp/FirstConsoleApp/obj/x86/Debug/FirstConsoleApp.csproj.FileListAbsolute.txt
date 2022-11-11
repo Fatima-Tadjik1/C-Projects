@@ -1,0 +1,6 @@
+/home/fatima/Projects/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.exe
+/home/fatima/Projects/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.pdb
+/home/fatima/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.csproj.AssemblyReference.cache
+/home/fatima/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/home/fatima/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.exe
+/home/fatima/Projects/FirstConsoleApp/FirstConsoleApp/obj/x86/Debug/FirstConsoleApp.pdb

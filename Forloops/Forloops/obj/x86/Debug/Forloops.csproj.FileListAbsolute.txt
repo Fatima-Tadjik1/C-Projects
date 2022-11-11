@@ -1,0 +1,12 @@
+/home/fatima/Projects/Forloops/Forloops/bin/Debug/Forloops.exe
+/home/fatima/Projects/Forloops/Forloops/bin/Debug/Forloops.pdb
+/home/fatima/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.AssemblyReference.cache
+/home/fatima/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.CoreCompileInputs.cache
+/home/fatima/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.exe
+/home/fatima/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.pdb
+/home/fatima/Desktop/C# Projects/Forloops/Forloops/bin/Debug/Forloops.exe
+/home/fatima/Desktop/C# Projects/Forloops/Forloops/bin/Debug/Forloops.pdb
+/home/fatima/Desktop/C# Projects/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.AssemblyReference.cache
+/home/fatima/Desktop/C# Projects/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.CoreCompileInputs.cache
+/home/fatima/Desktop/C# Projects/Forloops/Forloops/obj/x86/Debug/Forloops.exe
+/home/fatima/Desktop/C# Projects/Forloops/Forloops/obj/x86/Debug/Forloops.pdb

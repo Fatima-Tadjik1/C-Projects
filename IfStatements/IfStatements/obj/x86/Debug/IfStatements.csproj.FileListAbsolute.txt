@@ -1,0 +1,12 @@
+/home/fatima/Projects/IfStatements/IfStatements/bin/Debug/IfStatements.exe
+/home/fatima/Projects/IfStatements/IfStatements/bin/Debug/IfStatements.pdb
+/home/fatima/Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.csproj.AssemblyReference.cache
+/home/fatima/Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.csproj.CoreCompileInputs.cache
+/home/fatima/Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.exe
+/home/fatima/Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.pdb
+/home/fatima/Desktop/C# Projects/IfStatements/IfStatements/bin/Debug/IfStatements.exe
+/home/fatima/Desktop/C# Projects/IfStatements/IfStatements/bin/Debug/IfStatements.pdb
+/home/fatima/Desktop/C# Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.csproj.AssemblyReference.cache
+/home/fatima/Desktop/C# Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.csproj.CoreCompileInputs.cache
+/home/fatima/Desktop/C# Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.exe
+/home/fatima/Desktop/C# Projects/IfStatements/IfStatements/obj/x86/Debug/IfStatements.pdb
